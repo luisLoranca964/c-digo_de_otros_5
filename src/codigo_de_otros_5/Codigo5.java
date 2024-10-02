@@ -26,6 +26,7 @@ public class Codigo5 {
 			num = num/ 10;
 			
 		}
+		//se saca el if del while
 		if (afo > noAfo) {
 			System.out.println("El " + c + " es un número afortunado.");
 		} else {
